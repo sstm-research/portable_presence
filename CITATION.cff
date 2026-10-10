@@ -1,0 +1,76 @@
+cff-version: 1.2.0
+
+message: >-
+  If you use this research, please cite Portable Presence and preserve
+  the attribution of the projects and implementations in its research lineage.
+
+title: "Portable Presence"
+
+type: software
+
+authors:
+  - family-names: "Santana dos Santos"
+    given-names: "Felipe Gustavo"
+
+version: 0.1.0
+
+date-released: 2026-10-09
+
+license: Apache-2.0
+
+repository-code: "https://github.com/sstm-research/portable_presence"
+
+url: "https://github.com/sstm-research/portable_presence"
+
+abstract: >-
+  Portable Presence is a research evolution of Portable Rights focused
+  on verifiable evidence of physical artwork presence, institutional
+  check-ins, exhibition locations and location history. The research is
+  informed by location, mapping and privacy patterns observed in the
+  Safe City implementation while preserving the authorship and provenance
+  of the original software.
+
+keywords:
+  - portable presence
+  - portable trust
+  - portable rights
+  - artwork provenance
+  - artwork location
+  - artwork tracking
+  - check-in
+  - exhibition
+  - cultural assets
+  - geospatial
+  - maps
+  - physical-digital
+  - verifiable credentials
+  - attestations
+  - provenance
+  - privacy
+
+references:
+
+  - type: software
+    title: "Portable Rights"
+    repository-code: "https://github.com/sstm-research/portable_rights"
+    url: "https://github.com/sstm-research/portable_rights"
+
+  - type: software
+    title: "Portable Trust"
+    repository-code: "https://github.com/sstm-research/portable_trust"
+    url: "https://github.com/sstm-research/portable_trust"
+
+  - type: software
+    title: "Safe City"
+    repository-code: "https://github.com/deegalabs/safe-city-app"
+    url: "https://github.com/deegalabs/safe-city-app"
+
+  - type: software
+    title: "Safe City — SSTM Research preservation fork"
+    repository-code: "https://github.com/sstm-research/safe-city-app"
+    url: "https://github.com/sstm-research/safe-city-app"
+
+  - type: software
+    title: "Legallery"
+    repository-code: "https://github.com/Gowdakthegreat/legallery"
+    url: "https://github.com/Gowdakthegreat/legallery"
